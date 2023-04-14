@@ -1,0 +1,4 @@
+LINK    = //h2/a/@href
+TITULO  = //*[@id="content"]/div[2]/div[1]/article/header/h1/text()
+RESUMEN = //*[@id="content"]/div[2]/div[1]/article/header/div[1]/h2/text()
+CUERPO  = //*[@id="article-body"]/p[not(@class)]/text()
