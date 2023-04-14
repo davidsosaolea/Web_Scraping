@@ -1,0 +1,31 @@
+Científicos logran mejorar la primera imagen de un agujero negro en la historia
+
+Con el apoyo de un programa de 
+
+La icónica primera imagen de un 
+, tomada en 2019 por la colaboración EHT, en el corazón de la galaxia 
+, ha sido mejorada por un programa de aprendizaje automático.
+La 'rosquilla naranja difusa' que se ve en la primera imagen de un 
+ jamás tomada se ha reducido a un 'anillo dorado delgado' más delgado con la ayuda del programa, entrenado en modelos de 
+ en una supercomputadora.
+La redefinición de esta imagen del 
+ en el corazón de la galaxia
+ (M87) podría ayudar a comprender mejor sus características y podría extenderse al agujero negro en el corazón de nuestra propia galaxia, la Vía Láctea.
+La imagen histórica del 
+ 
+ de M87 fue tomada por el Event Horizon Telescope (EHT) y se reveló al público en 2019. El EHT recopiló los datos para crear la imagen durante varios días en 2017. El EHT es una red de siete telescopios en todo el mundo que crea un telescopio del tamaño de la Tierra.
+Un equipo de investigadores, incluida la miembro de la colaboración EHT y becaria postdoctoral en astrofísica Lia Medeiros, utilizó una nueva técnica de aprendizaje automático llamada modelado interferométrico de componentes principales o "PRIMO" para "llenar los vacíos" en la imagen M87 yfr
+"Dado que no podemos estudiar los 
+ de cerca, el detalle de una imagen juega un papel fundamental en nuestra capacidad para comprender su comportamiento", dijo Medeiros en un comunicado. "El ancho del anillo en la imagen ahora es más pequeño por un factor de dos, lo que será una poderosa restricción para nuestros modelos teóricos y pruebas de gravedad".
+, que se encuentra a 55 millones de años luz de la Tierra y tiene una masa equivalente a seis mil quinientos millones de soles, los científicos se sorprendieron de lo bien que coincidía con las predicciones de la teoría general de la relatividad de Albert Einstein de 1915.
+Esta imagen refinada PRIMO del 
+de M87 brinda a los científicos la oportunidad de hacer coincidir mejor las observaciones de un 
+ real con las predicciones teóricas.
+"PRIMO es un nuevo enfoque para la difícil tarea de construir imágenes a partir de observaciones de EHT", dijo Tod Lauer, miembro de EHT e investigador de NOIRLab. "Proporciona una forma de compensar la información faltante sobre el objeto que se observa, que se requiere para generar la imagen que se habría visto utilizando un único radiotelescopio gigantesco del tamaño de la Tierra".
+El Instituto de Estudios Avanzados de Princeton explicó que PRIMO opera utilizando el aprendizaje de diccionario, una rama del aprendizaje automático que permite a las computadoras generar reglas basadas en grandes conjuntos de material de capacitación. Entonces, por ejemplo, si un programa como este recibe varias imágenes de un plátano, puede aprender a determinar si una imagen de un objeto desconocido es un plátano o no.
+Para entrenar a PRIMO para que hiciera lo mismo con los 
+ el equipo le proporcionó 30 mil imágenes simuladas de alta fidelidad de estos titanes cósmicos mientras se alimentaban del gas circundante, un proceso llamado "acreción". Las imágenes cubrieron una amplia variedad de predicciones teóricas sobre cómo los 
+ acumulan materia, lo que permite a PRIMO buscar patrones.
+Una vez identificados, estos patrones se ordenaron en función de la frecuencia con la que se incluyeron en las simulaciones. Luego, esto podría incorporarse a las imágenes EHT para crear una imagen de alta fidelidad del 
+ de M87 y revelar estructuras que el conjunto de telescopios podría haber pasado por alto.
+"Estamos utilizando la física para completar regiones de datos faltantes de una manera que nunca antes se había hecho mediante el uso del aprendizaje automático", explicó Medeiros. "Esto podría tener implicaciones importantes para la interferometría, que desempeña un papel en campos que van desde los exoplanetas hasta la medicina". (Europa Press)

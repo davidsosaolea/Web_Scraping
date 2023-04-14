@@ -1,0 +1,46 @@
+‘The Mandalorian’ es solo el comienzo: las pantallas LED expanden el cine del futuro
+
+En 
+
+En 
+, el wéstern espacial de Lucasfilm, han “rodado” en los exteriores de mundos alienígenas sin salir del plató, y no solo eso. Todos los efectos especiales se han construido a partir de pantallas LED curvas y 
+. Este es solo el comienzo de una revolución en el cine y la ciencia ficción que expande los límites de lo hasta ahora posible.
+El cine contemporáneo vive una transformación tecnológica que afecta a todas las profesiones derivadas de la producción de películas. Nunca antes se ha producido ni 
+ como ahora. La irrupción de las plataformas de 
+ ha supuesto un cambio profundo, pero la pandemia ha precipitado en pocos años importantes cambios en la agenda tecnológica de la producción cinematográfica cuya previsión era implementarlos de un modo más lento y paulatino.
+El trabajo en estudio usando croma se impuso en la producción cinematográfica a partir del desarrollo de los 
+ y ha reinado en las producciones de las últimas décadas. Ahora ha dado paso a una tecnología capaz de ofrecer espacios virtuales dotados de gran realismo, que permite rodar exteriores, los más espectaculares, sin salir del plató y con enorme precisión. Se consigue a través de pantallas LED que simulan el espacio real.
+El primer 
+ cinematográfico se empleó en la película 
+ (R. Howard, 1988) una producción de Lucasfilm que se llevó el Óscar a los mejores efectos especiales. La técnica la universalizó Michael Jackson en el videoclip de 
+ y ese mismo año James Cameron fue aún más allá con 
+, la primera película que utilizó el 
+ para simular movimientos humanos dotados de un impresionante realismo. Después de esta película, Cameron, que también se llevó el Óscar a los mejores efectos, fundó junto a Stan Winston y Scot Ross la compañía Digital Domain.
+El paso siguiente lo dio el inefable Steven Spielberg con 
+ (1993), película en la que el nivel de realismo de las 
+ de los dinosaurios fue sorprendente.
+El cine estaba empezando a coger un vuelo sin precedentes gracias a nuevas herramientas como 
+ y otros software específicos como 
+ o 
+.
+Los cineastas podían empezar a soñar escenarios y situaciones dramáticas reales o ficticias con un despliegue visual que el cine nunca antes había podido crear. 
+ (H. Sakaguchi, 2001) hizo un intento muy meritorio de recreación de humanos mediante computador, pero fueron Georges Lucas y Peter Jackson los que protagonizaron la escena de los años 2000 incorporando efectos visuales cada vez más sofisticados en la saga 
+ o en el personaje de Gollum, de 
+ (2002), desarrollado por Weta. Pero las reglas del juego volvieron a cambiar a finales de esa década, cuando James Cameron presentó 
+ en 2009. Esta película combinaba el trabajo de seguimiento de cámara (
+) con la captura de movimiento (
+) y permitía sustituir el movimiento de los actores por personajes virtuales.
+Hasta ahora hemos hablado de la evolución de efectos visuales posteriores a un rodaje en estudio con 
+, que es la situación precedente a las posibilidades que ofrece la tecnología LED y el nuevo sistema de rodaje en tiempo real que se empezó a implementar con la producción de 
+.
+Es preciso señalar que, desde el punto de vista técnico, el mundo del videojuego ha ido por delante del cine haciendo posible motores de renderizado en tiempo real tan potentes como 
+, capaz de sustentar en tiempo real imágenes fotorrealistas.
+La evolución de esta capacidad de renderizado en tiempo real ha sido la clave para operar el cambio en el sistema de rodaje con una fórmula que persigue, entre otras cosas, reducir los costes de producción, el sueño de cualquier productor ejecutivo.
+El cambio del sistema de rodaje consiste, básicamente, en sustituir el trabajo en postproducción por el trabajo en cámara, creando un estudio donde los actores y algunos elementos situados en primer término son reales y detrás de ellos se mueve todo un mundo virtual en resolución 4K generado por pantallas led de gran formato que se mueve en tiempo real.
+Para el rodaje de 
+ ha hecho falta una pantalla semicircular de más de 70 metros de largo y 6 metros de alto creando una circunferencia de 270 grados rematada por otra gran pantalla en el techo del estudio. La tecnología 
+ ha sido también utilizada en la producción de 
+ de 2022.
+Las ventajas técnicas de este nuevo sistema son muchas: cambios en escena y control de la imagen final, algo que hasta ahora estaba en manos exclusivas de la postproducción; corrección de luz y color de las pantallas idénticas a las marcadas por cámara, que permite integrar elementos reales y virtuales; inmersión dramática en la escena para los actores y el equipo técnico, que deja atrás al sempiterno fondo verde en el que había que imaginar todo; reducción del trabajo de rodaje en exteriores, el momento más crítico de cualquier rodaje, siempre sujeto a imprevistos y, sobre todo, a un elevado coste por el movimiento de equipos; por último, reduce el tiempo de postproducción.
+Es cierto que todo son ventajas, sin embargo, este tipo de rodaje está solo al alcance de quien pueda pagarlo. El cine del imperio es así, aunque el precio de alquiler de estos equipos puede variar mucho dependiendo de las necesidades.
+, por citar un ejemplo de otro signo, opina que estos sistemas rompen la magia natural del rodaje del cine en exteriores. Por mi parte, estoy completamente de acuerdo. Pero esa es otra historia.

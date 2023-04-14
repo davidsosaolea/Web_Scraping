@@ -1,0 +1,17 @@
+WhatsApp añade una nueva función para evitar que hackers roben tu cuenta
+
+Para poder transferir una cuenta de 
+
+está añadiendo una serie de funciones de seguridad para evitar que hackers o piratas informáticos puedan robar sus cuentas.
+A partir de ahora, muchos usuarios empezarán a ver más controles al momento de transferir su cuenta a un teléfono nuevo, intentando la app así comprobar tu identidad.
+La próxima vez que intentes descargas 
+ en un nuevo dispositivo, la app mandará una notificación al antiguo celular para confirmar que estás deseando mover la cuenta a un nuevo teléfono.
+De acuerdo con 
+, esta función se activará cuando la empresa detecte un intento de registro sospechoso. Y en el peor de los casos, si el usuario no tiene acceso a su antiguo dispositivo, puede solicitar a la empresa que le envíe un nuevo código.
+ está añadiendo nuevas verificaciones de antecedentes, las cuales ayudarán a proteger su cuenta contra malware.
+Por otro lado, la app también pide que los usuarios verifiquen si su conexión a internet está encriptada. En este momento, verificar su conexión con alguien implica escanear un código QR o comparar un número de 60 dígitos, los cuales puede encontrar tocando la pestaña Cifrado debajo de la hoja de información de un contacto. En el futuro, tocar la pestaña verificará automáticamente si su conexión es segura.
+Asimismo, 
+ está pidiendo reiteradamente que los usuarios usen la aplicación oficial del servicio y no descarguen los clientes no oficiales como Plus, Plus Rojo, GB, Gold y más.
+De acuerdo con 
+, estas apps son desarrolladas por terceros y “no cumplen con las Condiciones de servicio”.
+“Estas aplicaciones ponen en riesgo la privacidad y la seguridad. Si las usas, no hay garantía de que tus mensajes o datos, como tu ubicación o los archivos que compartes, sean privados y estén seguros. Es posible que se suspenda tu cuenta de manera temporal o definitiva”, refiere.
