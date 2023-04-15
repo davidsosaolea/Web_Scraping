@@ -22,6 +22,7 @@ def parse_notice(link, today):
             try:
                 title = parsed.xpath(XPATH_TITLE_TO_ARTICLE)[0]
                 title = title.replace('\"','')
+                title = title.replace('S/','PEN')
                 sumary = parsed.xpath(XPATH_SUMARY_TO_ARTICLE)[0]
                 body = parsed.xpath(XPATH_BODY_TO_ARTICLE)
             except IndexError:

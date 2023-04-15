@@ -1,0 +1,29 @@
+Ray Tracing: ¿Cuántos gamers lo activan? Estos son los datos de NVIDIA
+
+ introdujo soporte para 
+
+Desde que 
+ introdujo el 
+ en sus tarjetas de video de serie 
+ en 2018, esta tecnología ha ganado impulso.
+El 
+ o 
+ simula de manera natural los patrones de luz.
+Esta implementación requiere de núcleos especializados, que NVIDIA incluye en sus tarjetas 
+ y que también han sido adoptados por 
+ e 
+ en sus productos en los últimos años.
+Muchos usuarios se pueden preguntar: ¿Cuántos gamers activan realmente Ray Tracing?
+En medio de la presentación de la 
+, 
+ mostró datos sobre sus usuarios y qué tanto utilizan 
+.
+La adopción de 
+ ha ido en crecimiento, según muestran los datos recabados en febrero de 2023.
+Ha pasado lo mismo con 
+, la tecnología de supersampleo de NVIDIA, que utiliza los Tensor Cores de las 
+.
+ permite ganar cuadros por segundos en los juegos que tienen implementada esta tecnología. La serie 
+ implementa DLSS 3 y Frame Generation, una nueva tecnología.
+Cuando se develó en 2018, el 
+ estaba implementado en tan solo cuatro juegos. En 2023, está implementado en 400 juegos y aplicaciones
